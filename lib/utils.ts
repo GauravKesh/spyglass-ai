@@ -2,7 +2,12 @@ export function safeJSONParse(
   text: string
 ) {
   try {
-    return JSON.parse(text);
+    const cleaned = text
+      .replace(/```json/g, "")
+      .replace(/```/g, "")
+      .trim();
+
+    return JSON.parse(cleaned);
   } catch {
     return null;
   }

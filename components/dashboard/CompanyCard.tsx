@@ -10,13 +10,16 @@ export default function CompanyCard({
   return (
     <Link
       href={`/dashboard/${company._id}`}
-      className="border rounded-2xl p-6 block hover:border-black transition"
+      className="group border border-white/10 rounded-2xl p-6 block bg-white/5 hover:border-white/40 hover:bg-white/10 transition"
     >
-      <h2 className="text-2xl font-bold">
-        {company.name}
-      </h2>
+      <div className="flex items-center justify-between">
+        <h2 className="text-2xl">{company.name}</h2>
+        <span className="text-xs uppercase tracking-[0.3em] text-white/40 group-hover:text-white/70 transition">
+          View
+        </span>
+      </div>
 
-      <p className="text-gray-500 mt-2">
+      <p className="text-white/60 mt-3">
         {company.summary}
       </p>
     </Link>

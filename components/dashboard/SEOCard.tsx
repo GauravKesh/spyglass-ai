@@ -4,8 +4,8 @@ export default function SEOCard({
   keywords: string[];
 }) {
   return (
-    <div className="border rounded-2xl p-6">
-      <h2 className="text-2xl font-bold mb-4">
+    <div className="border border-white/10 rounded-2xl p-6 bg-white/5">
+      <h2 className="text-2xl mb-4">
         SEO Keywords
       </h2>
 
@@ -13,7 +13,7 @@ export default function SEOCard({
         {keywords.map((keyword) => (
           <span
             key={keyword}
-            className="bg-gray-200 px-4 py-2 rounded-full"
+            className="border border-white/10 bg-white/10 px-4 py-2 rounded-full text-sm text-white/80"
           >
             {keyword}
           </span>

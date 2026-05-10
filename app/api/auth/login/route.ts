@@ -6,6 +6,12 @@ import User from "@/models/User";
 import { connectDB } from "@/lib/mongodb";
 import { generateToken } from "@/lib/auth";
 
+export async function GET(req: Request) {
+  return NextResponse.redirect(
+    new URL("/login", req.url)
+  );
+}
+
 export async function POST(req: Request) {
   try {
     await connectDB();

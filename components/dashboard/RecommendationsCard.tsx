@@ -4,19 +4,18 @@ export default function RecommendationsCard({
   recommendations: string[];
 }) {
   return (
-    <div className="border rounded-2xl p-6">
-      <h2 className="text-2xl font-bold mb-4">
+    <div className="border border-white/10 rounded-2xl p-6 bg-white/5">
+      <h2 className="text-2xl mb-4">
         AI Recommendations
       </h2>
 
-      <ul className="space-y-3">
-        {recommendations.map(
-          (recommendation) => (
-            <li key={recommendation}>
-              • {recommendation}
-            </li>
-          )
-        )}
+      <ul className="space-y-3 text-white/70">
+        {recommendations.map((recommendation) => (
+          <li key={recommendation} className="flex gap-2">
+            <span className="text-amber-200">•</span>
+            <span>{recommendation}</span>
+          </li>
+        ))}
       </ul>
     </div>
   );
