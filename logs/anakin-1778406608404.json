@@ -1,0 +1,19 @@
+{
+  "type": "anakin_api",
+  "request": {
+    "method": "GET",
+    "url": "https://api.anakin.io/v1/url-scraper/1944ec42-9122-4572-bde8-726647df1660"
+  },
+  "response": {
+    "status": 202,
+    "ok": true,
+    "data": {
+      "id": "1944ec42-9122-4572-bde8-726647df1660",
+      "status": "processing",
+      "url": "https://linear.app",
+      "jobType": "url_scraper",
+      "country": "us",
+      "createdAt": "2026-05-10T09:50:08.403Z"
+    }
+  }
+}

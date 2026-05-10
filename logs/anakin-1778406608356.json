@@ -1,0 +1,20 @@
+{
+  "type": "anakin_api",
+  "request": {
+    "method": "POST",
+    "url": "https://api.anakin.io/v1/url-scraper",
+    "body": {
+      "url": "https://linear.app",
+      "generateJson": true,
+      "useBrowser": true
+    }
+  },
+  "response": {
+    "status": 202,
+    "ok": true,
+    "data": {
+      "jobId": "1944ec42-9122-4572-bde8-726647df1660",
+      "status": "pending"
+    }
+  }
+}

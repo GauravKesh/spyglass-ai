@@ -1,0 +1,79 @@
+{
+  "type": "db_payload",
+  "payload": {
+    "userId": "6a00393515a7b70f51c0a377",
+    "name": "Perplexity AI",
+    "url": "https://perplexity.ai",
+    "status": "success",
+    "title": "Perplexity AI",
+    "description": "Type @ for connectors and sources",
+    "pageType": "generic",
+    "links": [
+      {
+        "text": "Discover",
+        "url": "https://perplexity.ai/discover"
+      },
+      {
+        "text": "Finance",
+        "url": "https://perplexity.ai/finance"
+      },
+      {
+        "text": "Health",
+        "url": "https://perplexity.ai/health"
+      },
+      {
+        "text": "Academic",
+        "url": "https://perplexity.ai/academic"
+      },
+      {
+        "text": "Patents",
+        "url": "https://perplexity.ai/patents"
+      }
+    ],
+    "sections": [
+      {
+        "content": "Prepare me for an upcoming meeting\nCreate a budget tracker from my spending\nSet up a weekly review system every Sunday\nFind decision-makers at a company\nFind potential integration partners\nMap out all businesses of a type in my area\nResearch a candidate before interview\nBenchmark salary for a role\nBuild interactive talent market map\nWrite a one-page investor pitch\nFind early customers and draft cold outreach\nBuild a financial model for my startup\nCompare tools or frameworks and recommend one\nQuiz me until I can recall it confidently\nCreate a study guide for a certification or exam\nBuild a working landing page for my product\nTurn my idea into a functional prototype\nSet up an automated email or Slack workflow\nTrack regulatory changes in my industry\nTrack my portfolio and alert me on big moves\nWatch industry news and flag important stories",
+        "heading": "Try Computer"
+      }
+    ],
+    "metadata": {},
+    "rawMarkdown": "[Discover](https://perplexity.ai/discover) [Finance](https://perplexity.ai/finance) [Health](https://perplexity.ai/health) [Academic](https://perplexity.ai/academic) [Patents](https://perplexity.ai/patents)\n\nType @ for connectors and sources\n\nSearch\n\nComputer\n\nModel\n\nTry Computer\n\nPrepare me for an upcoming meeting\n\nCreate a budget tracker from my spending\n\nSet up a weekly review system every Sunday\n\nFind decision-makers at a company\n\nFind potential integration partners\n\nMap out all businesses of a type in my area\n\nResearch a candidate before interview\n\nBenchmark salary for a role\n\nBuild interactive talent market map\n\nWrite a one-page investor pitch\n\nFind early customers and draft cold outreach\n\nBuild a financial model for my startup\n\nCompare tools or frameworks and recommend one\n\nQuiz me until I can recall it confidently\n\nCreate a study guide for a certification or exam\n\nBuild a working landing page for my product\n\nTurn my idea into a functional prototype\n\nSet up an automated email or Slack workflow\n\nTrack regulatory changes in my industry\n\nTrack my portfolio and alert me on big moves\n\nWatch industry news and flag important stories",
+    "aiRawData": {
+      "data": {
+        "description": "Type @ for connectors and sources",
+        "links": [
+          {
+            "text": "Discover",
+            "url": "https://perplexity.ai/discover"
+          },
+          {
+            "text": "Finance",
+            "url": "https://perplexity.ai/finance"
+          },
+          {
+            "text": "Health",
+            "url": "https://perplexity.ai/health"
+          },
+          {
+            "text": "Academic",
+            "url": "https://perplexity.ai/academic"
+          },
+          {
+            "text": "Patents",
+            "url": "https://perplexity.ai/patents"
+          }
+        ],
+        "metadata": {},
+        "pageType": "generic",
+        "sections": [
+          {
+            "content": "Prepare me for an upcoming meeting\nCreate a budget tracker from my spending\nSet up a weekly review system every Sunday\nFind decision-makers at a company\nFind potential integration partners\nMap out all businesses of a type in my area\nResearch a candidate before interview\nBenchmark salary for a role\nBuild interactive talent market map\nWrite a one-page investor pitch\nFind early customers and draft cold outreach\nBuild a financial model for my startup\nCompare tools or frameworks and recommend one\nQuiz me until I can recall it confidently\nCreate a study guide for a certification or exam\nBuild a working landing page for my product\nTurn my idea into a functional prototype\nSet up an automated email or Slack workflow\nTrack regulatory changes in my industry\nTrack my portfolio and alert me on big moves\nWatch industry news and flag important stories",
+            "heading": "Try Computer"
+          }
+        ],
+        "title": "Perplexity AI"
+      },
+      "status": "success"
+    }
+  }
+}

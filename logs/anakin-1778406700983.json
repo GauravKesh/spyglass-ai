@@ -1,0 +1,19 @@
+{
+  "type": "anakin_api",
+  "request": {
+    "method": "GET",
+    "url": "https://api.anakin.io/v1/url-scraper/56f5a53d-3470-4d34-b4cd-3e876aaae71e"
+  },
+  "response": {
+    "status": 202,
+    "ok": true,
+    "data": {
+      "id": "56f5a53d-3470-4d34-b4cd-3e876aaae71e",
+      "status": "processing",
+      "url": "https://perplexity.ai",
+      "jobType": "url_scraper",
+      "country": "us",
+      "createdAt": "2026-05-10T09:51:37.915Z"
+    }
+  }
+}

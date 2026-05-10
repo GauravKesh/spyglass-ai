@@ -1,0 +1,20 @@
+{
+  "type": "anakin_api",
+  "request": {
+    "method": "POST",
+    "url": "https://api.anakin.io/v1/url-scraper",
+    "body": {
+      "url": "https://perplexity.ai",
+      "generateJson": true,
+      "useBrowser": true
+    }
+  },
+  "response": {
+    "status": 202,
+    "ok": true,
+    "data": {
+      "jobId": "56f5a53d-3470-4d34-b4cd-3e876aaae71e",
+      "status": "pending"
+    }
+  }
+}

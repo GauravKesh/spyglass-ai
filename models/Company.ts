@@ -1,3 +1,4 @@
+// models/Company.ts
 import mongoose from "mongoose";
 
 const CompanySchema = new mongoose.Schema(
@@ -12,99 +13,7 @@ const CompanySchema = new mongoose.Schema(
       type: String,
       required: true,
       trim: true,
-    },
-
-    productHunt: {
-      type: {
-        productId: String,
-        slug: String,
-
-        name: String,
-        tagline: String,
-        description: String,
-
-        url: String,
-        website: String,
-
-        thumbnail: String,
-
-        screenshots: {
-          type: [String],
-          default: [],
-        },
-
-        gallery: {
-          type: [String],
-          default: [],
-        },
-
-        votesCount: {
-          type: Number,
-          default: 0,
-        },
-
-        commentsCount: {
-          type: Number,
-          default: 0,
-        },
-
-        reviewsCount: {
-          type: Number,
-          default: 0,
-        },
-
-        rating: Number,
-
-        rank: Number,
-
-        pricing: String,
-
-        topics: {
-          type: [String],
-          default: [],
-        },
-
-        badges: {
-          type: [String],
-          default: [],
-        },
-
-        makers: {
-          type: [
-            {
-              name: String,
-              username: String,
-              profileUrl: String,
-              avatar: String,
-            },
-          ],
-          default: [],
-        },
-
-        socialLinks: {
-          twitter: String,
-          linkedin: String,
-          github: String,
-          discord: String,
-        },
-
-        metrics: {
-          monthlyTraffic: Number,
-          revenueEstimate: Number,
-          growthRate: Number,
-        },
-
-        launchDate: Date,
-        featuredAt: Date,
-        lastSyncedAt: Date,
-
-        rawData: {
-          type: mongoose.Schema.Types.Mixed,
-          default: {},
-        },
-      },
-
-      default: {},
+      default: "",
     },
 
     url: {
@@ -113,48 +22,72 @@ const CompanySchema = new mongoose.Schema(
       trim: true,
     },
 
-    summary: String,
+    status: {
+      type: String,
+      default: "",
+    },
 
-    targetAudience: String,
+    title: {
+      type: String,
+      default: "",
+    },
 
-    pricing: String,
+    description: {
+      type: String,
+      default: "",
+    },
 
-    positioning: String,
+    pageType: {
+      type: String,
+      default: "",
+    },
 
-    features: {
-      type: [String],
+    links: {
+      type: [
+        {
+          text: { type: String, default: "" },
+          url: { type: String, default: "" },
+        },
+      ],
       default: [],
     },
 
-    strengths: {
-      type: [String],
+    sections: {
+      type: [
+        {
+          heading: { type: String, default: "" },
+          content: { type: String, default: "" },
+        },
+      ],
       default: [],
     },
 
-    weaknesses: {
-      type: [String],
-      default: [],
+    metadata: {
+      type: mongoose.Schema.Types.Mixed,
+      default: {},
     },
 
-    seoKeywords: {
-      type: [String],
-      default: [],
+    rawMarkdown: {
+      type: String,
+      default: "",
     },
 
-    recommendations: {
-      type: [String],
-      default: [],
+    aiRawData: {
+      type: mongoose.Schema.Types.Mixed,
+      default: {},
     },
-
-    rawMarkdown: String,
   },
   {
     timestamps: true,
   }
 );
 
-const Company =
-  mongoose.models.Company ||
-  mongoose.model("Company", CompanySchema);
+CompanySchema.index({ userId: 1, createdAt: -1 });
+CompanySchema.index({ url: 1 });
+
+// ← this delete forces Mongoose to re-register the model with the new schema
+delete mongoose.models.Company;
+
+const Company = mongoose.model("Company", CompanySchema);
 
 export default Company;

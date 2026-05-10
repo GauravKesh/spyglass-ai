@@ -1,0 +1,629 @@
+{
+  "type": "db_payload",
+  "payload": {
+    "userId": "6a00393515a7b70f51c0a377",
+    "name": "The productdevelopmentsystem for teamsand agentsThe product development  system for teams   and agentsThe product development system for teams and agents",
+    "url": "https://linear.app",
+    "status": "success",
+    "title": "The productdevelopmentsystem for teamsand agentsThe product development  system for teams   and agentsThe product development system for teams and agents",
+    "description": "Purpose-built for planning and building products. Designed for the AI era.",
+    "pageType": "generic",
+    "links": [
+      {
+        "text": "Issue tracking is deadlinear.app/next →",
+        "url": "https://linear.app/next"
+      },
+      {
+        "text": "1.0Intake→",
+        "url": "https://linear.app/intake"
+      },
+      {
+        "text": "2.0Plan→",
+        "url": "https://linear.app/plan"
+      },
+      {
+        "text": "3.0Build→",
+        "url": "https://linear.app/build"
+      },
+      {
+        "text": "4.0Diffs→",
+        "url": "https://linear.app/diffs"
+      },
+      {
+        "text": "5.0Monitor→",
+        "url": "https://linear.app/monitor"
+      },
+      {
+        "text": "Releases\n\nPlan and track your software releases directly from Linear.\n\nApr 30, 2026",
+        "url": "https://linear.app/changelog/2026-04-30-releases"
+      },
+      {
+        "text": "Linear Agent MCP support\n\nLinear Agent can now connect to your tools via MCP, giving it access to data and actions beyond your Linear workspace. Bring external context into your workflows to investigate issues, plan projects, write specs, and draft updates grounded in your full context.\n\nApr 23, 2026",
+        "url": "https://linear.app/changelog/2026-04-23-linear-agent-mcp-support"
+      },
+      {
+        "text": "Linear for Microsoft Teams\n\nMention @Linear in any Microsoft Teams channel to turn your conversations into actionable work.\n\nApr 15, 2026",
+        "url": "https://linear.app/changelog/2026-04-16-linear-for-microsoft-teams"
+      },
+      {
+        "text": "Multi-level sub-teams\n\nStructure your teams in Linear to match how your organization works.\n\nApr 8, 2026",
+        "url": "https://linear.app/changelog/2026-04-09-multi-level-sub-teams"
+      },
+      {
+        "text": "View all→",
+        "url": "https://linear.app/changelog"
+      },
+      {
+        "text": "> You just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI",
+        "url": "https://linear.app/customers/openai"
+      },
+      {
+        "text": "> Our speed is intense and Linear helps us be action biased.\n\nNik KoblovRamp",
+        "url": "https://linear.app/customers/ramp"
+      },
+      {
+        "text": "> Linear is excellent, just excellent. It has the right opinions for fast moving teams.\n\nKaz NejatianOpendoor",
+        "url": "https://linear.app/customers/opendoor"
+      },
+      {
+        "text": "You just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI",
+        "url": "https://linear.app/customers/openai"
+      },
+      {
+        "text": "Our speed is intense and Linear helps us be action biased.\n\nNik KoblovHead of Engineering, Ramp",
+        "url": "https://linear.app/customers/ramp"
+      },
+      {
+        "text": "Customer stories→",
+        "url": "https://linear.app/customers"
+      },
+      {
+        "text": "Get started",
+        "url": "https://linear.app/signup"
+      },
+      {
+        "text": "Contact sales",
+        "url": "https://linear.app/contact/sales"
+      },
+      {
+        "text": "Open app",
+        "url": "https://linear.app/login"
+      },
+      {
+        "text": "Download",
+        "url": "https://linear.app/download"
+      },
+      {
+        "text": "Pricing",
+        "url": "https://linear.app/pricing"
+      },
+      {
+        "text": "Security",
+        "url": "https://linear.app/security"
+      },
+      {
+        "text": "Asks",
+        "url": "https://linear.app/asks"
+      },
+      {
+        "text": "Agents",
+        "url": "https://linear.app/agents"
+      },
+      {
+        "text": "Customer Requests",
+        "url": "https://linear.app/customer-requests"
+      },
+      {
+        "text": "Insights",
+        "url": "https://linear.app/insights"
+      },
+      {
+        "text": "Mobile",
+        "url": "https://linear.app/mobile"
+      },
+      {
+        "text": "Integrations",
+        "url": "https://linear.app/integrations"
+      },
+      {
+        "text": "About",
+        "url": "https://linear.app/about"
+      },
+      {
+        "text": "Careers",
+        "url": "https://linear.app/careers"
+      },
+      {
+        "text": "Blog",
+        "url": "https://linear.app/blog"
+      },
+      {
+        "text": "Method",
+        "url": "https://linear.app/method"
+      },
+      {
+        "text": "Quality",
+        "url": "https://linear.app/quality"
+      },
+      {
+        "text": "Brand",
+        "url": "https://linear.app/brand"
+      },
+      {
+        "text": "Switch",
+        "url": "https://linear.app/switch"
+      },
+      {
+        "text": "Download",
+        "url": "https://linear.app/download"
+      },
+      {
+        "text": "DocumentationDocs",
+        "url": "https://linear.app/docs"
+      },
+      {
+        "text": "Developers",
+        "url": "https://linear.app/developers"
+      },
+      {
+        "text": "Status",
+        "url": "https://linearstatus.com"
+      },
+      {
+        "text": "Enterprise",
+        "url": "https://linear.app/enterprise"
+      },
+      {
+        "text": "Startups",
+        "url": "https://linear.app/startups"
+      },
+      {
+        "text": "Contact us",
+        "url": "https://linear.app/contact"
+      },
+      {
+        "text": "Community",
+        "url": "https://linear.app/join-slack"
+      },
+      {
+        "text": "X (Twitter)",
+        "url": "https://x.com/linear"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/linear"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/@linear"
+      },
+      {
+        "text": "Privacy",
+        "url": "https://linear.app/privacy"
+      },
+      {
+        "text": "Terms",
+        "url": "https://linear.app/terms"
+      },
+      {
+        "text": "DPA",
+        "url": "https://linear.app/dpa"
+      },
+      {
+        "text": "Link",
+        "url": "https://www.youtube.com/watch?v=K8UCETXFGOg"
+      },
+      {
+        "text": "Install Url",
+        "url": "https://fencer.dev/integrations"
+      }
+    ],
+    "sections": [
+      {
+        "content": "Render UI before `vehicle_state` sync when minimum required state is present, instead of blocking on full refresh during iOS startup.",
+        "heading": "Faster app launch"
+      },
+      {
+        "content": "Linear created the issue via Slack on behalf of karri· 2min ago\nTriage Intelligence added the labelPerformance and iOS· 2min ago\nkarri· 4 min ago\nRight now we show a spinner forever, which makes it look like the car disappeared...\njori· just now\n@GitHub Copilot can you take a stab at this?\njori connectedGitHub Copilot· just now\nGitHub Copilot\nExamining issueENG-2703\nGitHub Copilot moved from Todo toIn Progress· just now\nI received your request and will let you know when the PR is ready.Startgithub-mcp-serverMCP serverStartplaywright MCP serverI'll start by exploring the repository structure to understand the codebase and then implement the necessary changes to render UI before vehicle_state syncBash: Check current directory and list repository contentsView /home/runner/kinetic/kinetic-ios\nThinking...\nENG-2703\nIn Progress\nHigh\njori\nLabels\nPerformance\niOS\nCycle\nCycle 144\nProject\nCore Performance",
+        "heading": "Activity"
+      },
+      {
+        "content": "Purpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.\nBuilt for purpose\nLinear is shaped by the practices and principles of world-class product teams.\nPowered by AI agents\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\nDesigned for speed\nReduces noise and restores momentum to help teams ship with high velocity and focus.\nFIG 0.2\nBuilt for purpose\nLinear is shaped by the practices and principles of world-class product teams.\nFIG 0.3\nPowered by AI agentsDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\nFIG 0.4\nDesigned for speed\nReduces noise and restores momentum to help teams ship with high velocity and focus.",
+        "heading": "A new species of product tool."
+      },
+      {
+        "content": "Turn conversations and customer feedback into actionable issues that are routed, labeled, and prioritized for the right team.\nBacklog8\nENG-2085\nReduce UI flicker during autonomy...\nENG-2094\nAdd buffering for autonomy event streams\nENG-2092\nReduce startup delay caused by vehicle sync\nENG-2200\nFix delayed route updates during rerouting\nTodo71\nENG-926\nRemove UI inconsistencies\nBugDesign\nENG-2088\nTypeError: Cannot read properties\nBug\nENG-924\nUpgrade to Claude Opus 4.5\nAI\nENG-1882\nOptimize load times\nPerformance\nIn Progress3\nENG-1487\nRemove contentData from GraphQL API\n61039\nMKT-1028\nLaunch page assets\nDesign\nENG-2187\nPrevent duplicate ride requests on poor...\nBug62048\nDone53\nENG-2074\nClean up deprecated APIs...\nAPI61002\nENG-1912\nReduce latency in autonomy st...\n61005\nENG-1951\nReduce ETA fluctuations durin...\n61202\nENG-1960\nImprove fallback messaging\nUI61149\nENG-1991\nImprove rider visibility into veh...\ndidier5:50 AM\nHas anyone been looking into the iOS startup performance issues?\nlena5:50 AM\nAnyone else noticing the iOS app feels slow to open if you haven't used it in a bit?\ndidier5:50 AM\nYea, we're still blocking initial render on a full vehicle_state sync every time...\nandreas5:50 AM\nFeels like we could render sooner and load the rest in the background. Probably also worth tracking startup timing so we know how often this happens!\n@Linearcreate issuesurgent issues and assign to me\n1.1Linear Agent+\n1.2Triage+\n1.3Customer Requests+\n1.4Linear Asks+",
+        "heading": "Make product  operations self-driving"
+      },
+      {
+        "content": "Plan and navigate from idea to launch. Align your team with product initiatives, strategic roadmaps, and clear, up-to-date PRDs.\nFEB\nMAR\nAPR\nMAY\nJUN\nJUL\nAUG\nSEP\n2\n9\n16\n23\n2\n9\n16\n23\n30\n6\n13\n20\n27\n4\n11\n18\n25\n1\n8\n15\n22\n29\n6\n13\n20\n27\n3\n10\n17\n24\n31\n7\n14\n21\n28\nUI Refresh\nCore screens\nPolish\nSplit fares\nInternal\nPublic Beta\nAutonomy status clarity\nAlpha\nGA\nCore Product99\nInfra stability28\nAutonomous systems16\nMobile apps8\nAPAC Expansion21\nJapan Launch12\nCustomer-driven priorities9\n2.1Projects+\n2.2Documents+\n2.3Initiatives+\n2.4Visual planning+",
+        "heading": "Define the  product direction"
+      },
+      {
+        "content": "Build and deploy AI agents that work alongside your team. Work on complex tasks together or delegate entire issues end-to-end.\nOn it! I've received your request.\nKicked off a task inkinetic/kinetic-iOS environment.\nSearching for root AGENTS file\nkinetic/kinetic-iOS$ /bin/bash -lc rg --files -g 'AGENTS.md'\nAGENTS.md\nLocating initialization logic forvehicle_state\nThinking.\nAgents Command Menu\nCodexAgent\nSteven\nEma\nCursorAgent\nMeg\n3.1Issues+\n3.2Agents+\n3.3Linear MCP+\n3.4Git automations+\n3.5Cycles+",
+        "heading": "Move work forward  across teams and agents"
+      },
+      {
+        "content": "Understand code changes at a glance with structural diffs for human and agent output. Review, discuss, and merge — all within Linear.\nkinetic-ios/src/screens/Home/HomeScreen.tsxkinetic-ios/src/HomeScreen.tsx\nLinear\n```\nimport React from 'react'import { View, ActivityIndicator } from 'react-native'import { useVehicleState } from '@hooks/useVehicleState'import { Dashboard } from '@components/Dashboard'export const HomeScreen = () => {  const { vehicleState, isFullySynced } = useVehicleState()  if (!isFullySynced) {    return <ActivityIndicator size=\"large\" />  }  return (    <View>      <Dashboard state={vehicleState} />    </View>  )}\n```\n```\nimport React from 'react'import { View, ActivityIndicator } from 'react-native'import { useVehicleState, SyncStatus } from '@hooks/useVehicleState'import { Dashboard } from '@components/Dashboard'export const HomeScreen = () => {  const { vehicleState, syncStatus } = useVehicleState()  if (syncStatus === SyncStatus.PENDING) {    return <ActivityIndicator size=\"large\" />  }  return (    <View>      <Dashboard state={vehicleState} syncStatus={syncStatus} />    </View>  )}\n```\n```\nexport const CodeReview = () => {  <Diff.Provider>    <Slow />    <Fragmented />    <HumanOnly />    <Frictionless />    <Integrated />    <AgentReady />  </Diff.Provider>};\n```",
+        "heading": "Review PRs and agent output"
+      },
+      {
+        "content": "Take the guesswork out of product development with project updates, analytics, and dashboards that surface what needs your attention.\n18\n16\n14\n12\n10\n8\n6\n4\n2\n0\nFeb 2025May 2025Aug 2025Nov 2025\nCursor\nCodex\nNo Agent\nProjects\nUI refresh\nAt risk\nBy romain · 1 day ago\n- iOS implementation is mostly complete, but Android updates are still work in progress\n- Risk of timeline slip if remaining design decisions aren’t finalized soon\nTokyo launch\nOn track\nBy julian · 3 hours ago\n- Localization efforts have been completed\n- Everything else on track for launch in early September\n5.1Pulse+\n5.2Insights+\n5.3Dashboards+",
+        "heading": "Understand  progress at scale"
+      },
+      {
+        "content": "Releases\n\nPlan and track your software releases directly from Linear.\n\nApr 30, 2026\nLinear Agent MCP support\n\nLinear Agent can now connect to your tools via MCP, giving it access to data and actions beyond your Linear workspace. Bring external context into your workflows to investigate issues, plan projects, write specs, and draft updates grounded in your full context.\n\nApr 23, 2026\nLinear for Microsoft Teams\n\nMention @Linear in any Microsoft Teams channel to turn your conversations into actionable work.\n\nApr 15, 2026\nMulti-level sub-teams\n\nStructure your teams in Linear to match how your organization works.\n\nApr 8, 2026\n> You just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI > Our speed is intense and Linear helps us be action biased.\n\nNik KoblovRamp > Linear is excellent, just excellent. It has the right opinions for fast moving teams.\n\nKaz NejatianOpendoor\nYou just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI Our speed is intense and Linear helps us be action biased.\n\nNik KoblovHead of Engineering, Ramp\nLinear powers over 25,000 product teams. From ambitious startups to major enterprises.",
+        "heading": "Changelog"
+      },
+      {
+        "content": "",
+        "heading": "Built for the future. Available today."
+      },
+      {
+        "content": "- Pricing\n- Security",
+        "heading": "Product"
+      },
+      {
+        "content": "- Asks\n- Agents\n- Customer Requests\n- Insights\n- Mobile\n- Integrations",
+        "heading": "Features"
+      },
+      {
+        "content": "- About\n- Careers\n- Blog\n- Method\n- Quality\n- Brand",
+        "heading": "Company"
+      },
+      {
+        "content": "- Switch\n- Download\n- DocumentationDocs\n- Developers\n- Status\n- Enterprise\n- Startups",
+        "heading": "Resources"
+      },
+      {
+        "content": "- Contact us\n- Community\n- X (Twitter)\n- GitHub\n- YouTube",
+        "heading": "Connect"
+      },
+      {
+        "content": "- Privacy\n- Terms\n- DPA",
+        "heading": "Legal"
+      },
+      {
+        "content": "Hiring well matters more than hiring fast. We’re happy to take our time, and believe each person who joins the team should raise the bar for the next one.\nIn a market that hadn’t changed in decades, Linear didn’t win by being faster. They won by being more thoughtful.  Karri Saarinen helped shape design at Airbnb and Coinbase before building Line...\nOpenAI is at the forefront of artificial intelligence research, developing systems that can understand and generate human-like text, code, and images. Founded in 2015, they’ve grown from a small...\nRamp’s internal coding agent now writes 60%+ of their merged PRs. With Linear as the underlying layer for structured product context, it can take on issues and work them to completion.",
+        "heading": "Product Details"
+      }
+    ],
+    "metadata": {
+      "Card Description": "Hiring well matters more than hiring fast. We’re happy to take our time, and believe each person who joins the team should raise the bar for the next one.",
+      "Category": "Practices",
+      "Creator": "Fencer",
+      "Customer Since": "2023-11-01",
+      "Date": "2026-04-28T12:22:00.000Z",
+      "Description": "In a market that hadn’t changed in decades, Linear didn’t win by being faster. They won by being more thoughtful.  Karri Saarinen helped shape design at Airbnb and Coinbase before building Line...",
+      "Founding": "San Francisco, 2015",
+      "Icon Background Color": "#F34F52",
+      "Install Url": "https://fencer.dev/integrations",
+      "Intro": "OpenAI is at the forefront of artificial intelligence research, developing systems that can understand and generate human-like text, code, and images. Founded in 2015, they’ve grown from a small...",
+      "Investors": "Coatue, Andreessen Horowitz",
+      "Metadata Description": "The workflows that proved most useful across CX, Product, and Engineering, and what they tell us about working with agents.",
+      "Metadata Title": "How we use Linear Agent at Linear",
+      "Name": "Fencer",
+      "Now": "Ramp’s internal coding agent now writes 60%+ of their merged PRs. With Linear as the underlying layer for structured product context, it can take on issues and work them to completion.",
+      "Priority": "0",
+      "Representative": "Katherine Velasco",
+      "Representative Title": "Technical Product Lead",
+      "Source": "Grit Podcast",
+      "Status": "visible",
+      "Tagline": "Why OpenAI chose Linear and scaled to 3,000 users",
+      "Title": "How we hire at Linear"
+    },
+    "rawMarkdown": "# The productdevelopmentsystem for teamsand agentsThe product development  system for teams   and agentsThe product development system for teams and agents\n\nPurpose-built for planning and building products. Designed for the AI era.\n\n[Issue tracking is deadlinear.app/next →](https://linear.app/next)\n\n### Faster app launch\n\nRender UI before `vehicle_state` sync when minimum required state is present, instead of blocking on full refresh during iOS startup.\n\n### Activity\n\n![Avatar of Karri](https://webassets.linear.app/images/ornj730p/production/f79251b06e9edeeacbf2875384defe629e000b3c-352x352.png?w=72&q=95&auto=format&dpr=2)\n\nLinear created the issue via Slack on behalf of karri· 2min ago\n\nTriage Intelligence added the labelPerformance and iOS· 2min ago\n\nkarri· 4 min ago\n\nRight now we show a spinner forever, which makes it look like the car disappeared...\n\njori· just now\n\n**@GitHub Copilot** can you take a stab at this?\n\njori connectedGitHub Copilot· just now\n\nGitHub Copilot\nExamining issueENG-2703\n\nGitHub Copilot moved from Todo toIn Progress· just now\n\nI received your request and will let you know when the PR is ready.Startgithub-mcp-serverMCP serverStartplaywright MCP serverI'll start by exploring the repository structure to understand the codebase and then implement the necessary changes to render UI before vehicle\\_state syncBash: Check current directory and list repository contentsView /home/runner/kinetic/kinetic-ios\n\nThinking...\n\nENG-2703\n\nIn Progress\n\nHigh\n\njori\n\n![GitHub Copilot](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/f9ed2721-1966-4abc-129b-93aaac1a6200/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)GitHub Copilot\n\nLabels\n\nPerformance\n\niOS\n\nCycle\n\nCycle 144\n\nProject\n\nCore Performance\n\n## **A new species of product tool.** Purpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.\n\nBuilt for purpose\n\nLinear is shaped by the practices and principles of world-class product teams.\n\nPowered by AI agents\n\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\n\nDesigned for speed\n\nReduces noise and restores momentum to help teams ship with high velocity and focus.\n\nFIG 0.2\n\nBuilt for purpose\n\nLinear is shaped by the practices and principles of world-class product teams.\n\nFIG 0.3\n\nPowered by AI agentsDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\n\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\n\nFIG 0.4\n\nDesigned for speed\n\nReduces noise and restores momentum to help teams ship with high velocity and focus.\n\n## Make product  operations self-driving\n\nTurn conversations and customer feedback into actionable issues that are routed, labeled, and prioritized for the right team.\n\n[1.0Intake→](https://linear.app/intake)\n\nBacklog8\n\nENG-2085\n\nReduce UI flicker during autonomy...\n\nENG-2094\n\nAdd buffering for autonomy event streams\n\nENG-2092\n\nReduce startup delay caused by vehicle sync\n\nENG-2200\n\nFix delayed route updates during rerouting\n\nTodo71\n\nENG-926\n\nRemove UI inconsistencies\n\nBugDesign\n\nENG-2088\n\nTypeError: Cannot read properties\n\nBug\n\nENG-924\n\nUpgrade to Claude Opus 4.5\n\nAI\n\nENG-1882\n\nOptimize load times\n\nPerformance\n\nIn Progress3\n\nENG-1487\n\nRemove contentData from GraphQL API\n\n61039\n\nMKT-1028\n\nLaunch page assets\n\nDesign\n\nENG-2187\n\nPrevent duplicate ride requests on poor...\n\nBug62048\n\nDone53\n\nENG-2074\n\nClean up deprecated APIs...\n\nAPI61002\n\nENG-1912\n\nReduce latency in autonomy st...\n\n61005\n\nENG-1951\n\nReduce ETA fluctuations durin...\n\n61202\n\nENG-1960\n\nImprove fallback messaging\n\nUI61149\n\nENG-1991\n\nImprove rider visibility into veh...\n\n![didier](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/c8aeedda-7726-4a4f-226a-f573f85d8d00/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)\n\ndidier5:50 AM\n\nHas anyone been looking into the iOS startup performance issues?\n\n![lena](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/580cd9c0-2770-4fe4-1ad2-95c76fc6f000/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)\n\nlena5:50 AM\n\nAnyone else noticing the iOS app feels slow to open if you haven't used it in a bit?\n\ndidier5:50 AM\n\nYea, we're still blocking initial render on a full vehicle\\_state sync every time...\n\n![andreas](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/22210a73-581d-42db-d42a-bf2907860300/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)\n\nandreas5:50 AM\n\nFeels like we could render sooner and load the rest in the background. Probably also worth tracking startup timing so we know how often this happens!\n\n@Linearcreate issuesurgent issues and assign to me\n\n1.1Linear Agent+\n\n1.2Triage+\n\n1.3Customer Requests+\n\n1.4Linear Asks+\n\n## Define the  product direction\n\nPlan and navigate from idea to launch. Align your team with product initiatives, strategic roadmaps, and clear, up-to-date PRDs.\n\n[2.0Plan→](https://linear.app/plan)\n\nFEB\n\nMAR\n\nAPR\n\nMAY\n\nJUN\n\nJUL\n\nAUG\n\nSEP\n\n2\n\n9\n\n16\n\n23\n\n2\n\n9\n\n16\n\n23\n\n30\n\n6\n\n13\n\n20\n\n27\n\n4\n\n11\n\n18\n\n25\n\n1\n\n8\n\n15\n\n22\n\n29\n\n6\n\n13\n\n20\n\n27\n\n3\n\n10\n\n17\n\n24\n\n31\n\n7\n\n14\n\n21\n\n28\n\nUI Refresh\n\nCore screens\n\nPolish\n\nSplit fares\n\nInternal\n\nPublic Beta\n\nAutonomy status clarity\n\nAlpha\n\nGA\n\nCore Product99\n\nInfra stability28\n\nAutonomous systems16\n\nMobile apps8\n\nAPAC Expansion21\n\nJapan Launch12\n\nCustomer-driven priorities9\n\n2.1Projects+\n\n2.2Documents+\n\n2.3Initiatives+\n\n2.4Visual planning+\n\n## Move work forward  across teams and agents\n\nBuild and deploy AI agents that work alongside your team. Work on complex tasks together or delegate entire issues end-to-end.\n\n[3.0Build→](https://linear.app/build)\n\nOn it! I've received your request.\n\nKicked off a task inkinetic/kinetic-iOS environment.\n\nSearching for root AGENTS file\n\nkinetic/kinetic-iOS$ /bin/bash -lc rg --files -g 'AGENTS.md'\n\nAGENTS.md\n\nLocating initialization logic forvehicle\\_state\n\nThinking.\n\nAgents Command Menu\n\n![Codex](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/13a0909f-186f-4d83-3fd3-d04883ec2d00/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)CodexAgent\n\n![Steven](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/e408d7c9-e3a3-4802-e4d4-51ed197c3a00/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)Steven\n\n![Ema](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/a482eab9-69d1-412f-f2ce-8f72444fcb00/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)Ema\n\n![Cursor](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/5a228df7-2423-4807-6105-cd32ddddde00/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)CursorAgent\n\n![Meg](https://linear.app/cdn-cgi/imagedelivery/fO02fVwohEs9s9UHFwon6A/229693cb-2eda-40d1-ba64-ce6762435200/f=auto,dpr=2,q=95,fit=scale-down,metadata=none)Meg\n\n3.1Issues+\n\n3.2Agents+\n\n3.3Linear MCP+\n\n3.4Git automations+\n\n3.5Cycles+\n\n## Review PRs and agent output\n\nUnderstand code changes at a glance with structural diffs for human and agent output. Review, discuss, and merge — all within Linear.\n\n[4.0Diffs→](https://linear.app/diffs)\n\nkinetic-ios/src/screens/Home/HomeScreen.tsxkinetic-ios/src/HomeScreen.tsx\n\nLinear\n\n```\nimport React from 'react'import { View, ActivityIndicator } from 'react-native'import { useVehicleState } from '@hooks/useVehicleState'import { Dashboard } from '@components/Dashboard'export const HomeScreen = () => {  const { vehicleState, isFullySynced } = useVehicleState()  if (!isFullySynced) {    return <ActivityIndicator size=\"large\" />  }  return (    <View>      <Dashboard state={vehicleState} />    </View>  )}\n```\n\n```\nimport React from 'react'import { View, ActivityIndicator } from 'react-native'import { useVehicleState, SyncStatus } from '@hooks/useVehicleState'import { Dashboard } from '@components/Dashboard'export const HomeScreen = () => {  const { vehicleState, syncStatus } = useVehicleState()  if (syncStatus === SyncStatus.PENDING) {    return <ActivityIndicator size=\"large\" />  }  return (    <View>      <Dashboard state={vehicleState} syncStatus={syncStatus} />    </View>  )}\n```\n\n```\nexport const CodeReview = () => {  <Diff.Provider>    <Slow />    <Fragmented />    <HumanOnly />    <Frictionless />    <Integrated />    <AgentReady />  </Diff.Provider>};\n```\n\n## Understand  progress at scale\n\nTake the guesswork out of product development with project updates, analytics, and dashboards that surface what needs your attention.\n\n[5.0Monitor→](https://linear.app/monitor)\n\n18\n\n16\n\n14\n\n12\n\n10\n\n8\n\n6\n\n4\n\n2\n\n0\n\nFeb 2025May 2025Aug 2025Nov 2025\n\nCursor\n\nCodex\n\nNo Agent\n\nProjects\n\nUI refresh\n\nAt risk\n\nBy romain · 1 day ago\n\n- iOS implementation is mostly complete, but Android updates are still work in progress\n\n- Risk of timeline slip if remaining design decisions aren’t finalized soon\n\nTokyo launch\n\nOn track\n\nBy julian · 3 hours ago\n\n- Localization efforts have been completed\n\n- Everything else on track for launch in early September\n\n5.1Pulse+\n\n5.2Insights+\n\n5.3Dashboards+\n\n## Changelog\n\n[Releases\\\n\\\nPlan and track your software releases directly from Linear.\\\n\\\nApr 30, 2026](https://linear.app/changelog/2026-04-30-releases)\n\n[Linear Agent MCP support\\\n\\\nLinear Agent can now connect to your tools via MCP, giving it access to data and actions beyond your Linear workspace. Bring external context into your workflows to investigate issues, plan projects, write specs, and draft updates grounded in your full context.\\\n\\\nApr 23, 2026](https://linear.app/changelog/2026-04-23-linear-agent-mcp-support)\n\n[Linear for Microsoft Teams\\\n\\\nMention @Linear in any Microsoft Teams channel to turn your conversations into actionable work.\\\n\\\nApr 15, 2026](https://linear.app/changelog/2026-04-16-linear-for-microsoft-teams)\n\n[Multi-level sub-teams\\\n\\\nStructure your teams in Linear to match how your organization works.\\\n\\\nApr 8, 2026](https://linear.app/changelog/2026-04-09-multi-level-sub-teams)\n\n[View all→](https://linear.app/changelog)\n\n[> You just have to use it and you will see, you will just feel it.\\\n\\\nGabriel PealOpenAI](https://linear.app/customers/openai) [> Our speed is intense and Linear helps us be action biased.\\\n\\\nNik KoblovRamp](https://linear.app/customers/ramp) [> Linear is excellent, just excellent. It has the right opinions for fast moving teams.\\\n\\\nKaz NejatianOpendoor](https://linear.app/customers/opendoor)\n\n[You just have to use it and you will see, you will just feel it.\\\n\\\nGabriel PealOpenAI](https://linear.app/customers/openai) [Our speed is intense and Linear helps us be action biased.\\\n\\\nNik KoblovHead of Engineering, Ramp](https://linear.app/customers/ramp)\n\nLinear powers over **25,000** product teams. From ambitious startups to major enterprises.\n\n[Customer stories→](https://linear.app/customers)\n\n## Built for the future. Available today.\n\n[Get started](https://linear.app/signup) [Contact sales](https://linear.app/contact/sales) [Open app](https://linear.app/login) [Download](https://linear.app/download)\n\n### Product\n\n- [Pricing](https://linear.app/pricing)\n- [Security](https://linear.app/security)\n\n### Features\n\n- [Asks](https://linear.app/asks)\n- [Agents](https://linear.app/agents)\n- [Customer Requests](https://linear.app/customer-requests)\n- [Insights](https://linear.app/insights)\n- [Mobile](https://linear.app/mobile)\n- [Integrations](https://linear.app/integrations)\n### Company\n\n- [About](https://linear.app/about)\n- [Careers](https://linear.app/careers)\n- [Blog](https://linear.app/blog)\n- [Method](https://linear.app/method)\n- [Quality](https://linear.app/quality)\n- [Brand](https://linear.app/brand)\n\n### Resources\n\n- [Switch](https://linear.app/switch)\n- [Download](https://linear.app/download)\n- [DocumentationDocs](https://linear.app/docs)\n- [Developers](https://linear.app/developers)\n- [Status](https://linearstatus.com)\n- [Enterprise](https://linear.app/enterprise)\n- [Startups](https://linear.app/startups)\n\n### Connect\n\n- [Contact us](https://linear.app/contact)\n- [Community](https://linear.app/join-slack)\n- [X (Twitter)](https://x.com/linear)\n- [GitHub](https://github.com/linear)\n- [YouTube](https://www.youtube.com/@linear)\n\n### Legal\n\n- [Privacy](https://linear.app/privacy)\n- [Terms](https://linear.app/terms)\n- [DPA](https://linear.app/dpa)\n\n## Product Details\n\n| Attribute | Value |\n|-----------|-------|\n| Date | 2026-04-28T12:22:00.000Z |\n| Card Description | Hiring well matters more than hiring fast. We’re happy to take our time, and believe each person who joins the team should raise the bar for the next one. |\n| Category | Practices |\n| Title | How we hire at Linear |\n| Metadata Title | How we use Linear Agent at Linear |\n| Metadata Description | The workflows that proved most useful across CX, Product, and Engineering, and what they tell us about working with agents. |\n| Description | In a market that hadn’t changed in decades, Linear didn’t win by being faster. They won by being more thoughtful.  Karri Saarinen helped shape design at Airbnb and Coinbase before building Line... |\n| Link | https://www.youtube.com/watch?v=K8UCETXFGOg |\n| Source | Grit Podcast |\n| Icon Background Color | #F34F52 |\n| Creator | Fencer |\n| Install Url | https://fencer.dev/integrations |\n| Name | Fencer |\n| Priority | 0 |\n| Status | visible |\n| Intro | OpenAI is at the forefront of artificial intelligence research, developing systems that can understand and generate human-like text, code, and images. Founded in 2015, they’ve grown from a small... |\n| Customer Since | 2023-11-01 |\n| Founding | San Francisco, 2015 |\n| Tagline | Why OpenAI chose Linear and scaled to 3,000 users |\n| Now | Ramp’s internal coding agent now writes 60%+ of their merged PRs. With Linear as the underlying layer for structured product context, it can take on issues and work them to completion. |\n| Investors | Coatue, Andreessen Horowitz |\n| Representative Title | Technical Product Lead |\n| Representative | Katherine Velasco |",
+    "aiRawData": {
+      "data": {
+        "description": "Purpose-built for planning and building products. Designed for the AI era.",
+        "links": [
+          {
+            "text": "Issue tracking is deadlinear.app/next →",
+            "url": "https://linear.app/next"
+          },
+          {
+            "text": "1.0Intake→",
+            "url": "https://linear.app/intake"
+          },
+          {
+            "text": "2.0Plan→",
+            "url": "https://linear.app/plan"
+          },
+          {
+            "text": "3.0Build→",
+            "url": "https://linear.app/build"
+          },
+          {
+            "text": "4.0Diffs→",
+            "url": "https://linear.app/diffs"
+          },
+          {
+            "text": "5.0Monitor→",
+            "url": "https://linear.app/monitor"
+          },
+          {
+            "text": "Releases\n\nPlan and track your software releases directly from Linear.\n\nApr 30, 2026",
+            "url": "https://linear.app/changelog/2026-04-30-releases"
+          },
+          {
+            "text": "Linear Agent MCP support\n\nLinear Agent can now connect to your tools via MCP, giving it access to data and actions beyond your Linear workspace. Bring external context into your workflows to investigate issues, plan projects, write specs, and draft updates grounded in your full context.\n\nApr 23, 2026",
+            "url": "https://linear.app/changelog/2026-04-23-linear-agent-mcp-support"
+          },
+          {
+            "text": "Linear for Microsoft Teams\n\nMention @Linear in any Microsoft Teams channel to turn your conversations into actionable work.\n\nApr 15, 2026",
+            "url": "https://linear.app/changelog/2026-04-16-linear-for-microsoft-teams"
+          },
+          {
+            "text": "Multi-level sub-teams\n\nStructure your teams in Linear to match how your organization works.\n\nApr 8, 2026",
+            "url": "https://linear.app/changelog/2026-04-09-multi-level-sub-teams"
+          },
+          {
+            "text": "View all→",
+            "url": "https://linear.app/changelog"
+          },
+          {
+            "text": "> You just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI",
+            "url": "https://linear.app/customers/openai"
+          },
+          {
+            "text": "> Our speed is intense and Linear helps us be action biased.\n\nNik KoblovRamp",
+            "url": "https://linear.app/customers/ramp"
+          },
+          {
+            "text": "> Linear is excellent, just excellent. It has the right opinions for fast moving teams.\n\nKaz NejatianOpendoor",
+            "url": "https://linear.app/customers/opendoor"
+          },
+          {
+            "text": "You just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI",
+            "url": "https://linear.app/customers/openai"
+          },
+          {
+            "text": "Our speed is intense and Linear helps us be action biased.\n\nNik KoblovHead of Engineering, Ramp",
+            "url": "https://linear.app/customers/ramp"
+          },
+          {
+            "text": "Customer stories→",
+            "url": "https://linear.app/customers"
+          },
+          {
+            "text": "Get started",
+            "url": "https://linear.app/signup"
+          },
+          {
+            "text": "Contact sales",
+            "url": "https://linear.app/contact/sales"
+          },
+          {
+            "text": "Open app",
+            "url": "https://linear.app/login"
+          },
+          {
+            "text": "Download",
+            "url": "https://linear.app/download"
+          },
+          {
+            "text": "Pricing",
+            "url": "https://linear.app/pricing"
+          },
+          {
+            "text": "Security",
+            "url": "https://linear.app/security"
+          },
+          {
+            "text": "Asks",
+            "url": "https://linear.app/asks"
+          },
+          {
+            "text": "Agents",
+            "url": "https://linear.app/agents"
+          },
+          {
+            "text": "Customer Requests",
+            "url": "https://linear.app/customer-requests"
+          },
+          {
+            "text": "Insights",
+            "url": "https://linear.app/insights"
+          },
+          {
+            "text": "Mobile",
+            "url": "https://linear.app/mobile"
+          },
+          {
+            "text": "Integrations",
+            "url": "https://linear.app/integrations"
+          },
+          {
+            "text": "About",
+            "url": "https://linear.app/about"
+          },
+          {
+            "text": "Careers",
+            "url": "https://linear.app/careers"
+          },
+          {
+            "text": "Blog",
+            "url": "https://linear.app/blog"
+          },
+          {
+            "text": "Method",
+            "url": "https://linear.app/method"
+          },
+          {
+            "text": "Quality",
+            "url": "https://linear.app/quality"
+          },
+          {
+            "text": "Brand",
+            "url": "https://linear.app/brand"
+          },
+          {
+            "text": "Switch",
+            "url": "https://linear.app/switch"
+          },
+          {
+            "text": "Download",
+            "url": "https://linear.app/download"
+          },
+          {
+            "text": "DocumentationDocs",
+            "url": "https://linear.app/docs"
+          },
+          {
+            "text": "Developers",
+            "url": "https://linear.app/developers"
+          },
+          {
+            "text": "Status",
+            "url": "https://linearstatus.com"
+          },
+          {
+            "text": "Enterprise",
+            "url": "https://linear.app/enterprise"
+          },
+          {
+            "text": "Startups",
+            "url": "https://linear.app/startups"
+          },
+          {
+            "text": "Contact us",
+            "url": "https://linear.app/contact"
+          },
+          {
+            "text": "Community",
+            "url": "https://linear.app/join-slack"
+          },
+          {
+            "text": "X (Twitter)",
+            "url": "https://x.com/linear"
+          },
+          {
+            "text": "GitHub",
+            "url": "https://github.com/linear"
+          },
+          {
+            "text": "YouTube",
+            "url": "https://www.youtube.com/@linear"
+          },
+          {
+            "text": "Privacy",
+            "url": "https://linear.app/privacy"
+          },
+          {
+            "text": "Terms",
+            "url": "https://linear.app/terms"
+          },
+          {
+            "text": "DPA",
+            "url": "https://linear.app/dpa"
+          },
+          {
+            "text": "Link",
+            "url": "https://www.youtube.com/watch?v=K8UCETXFGOg"
+          },
+          {
+            "text": "Install Url",
+            "url": "https://fencer.dev/integrations"
+          }
+        ],
+        "metadata": {
+          "Card Description": "Hiring well matters more than hiring fast. We’re happy to take our time, and believe each person who joins the team should raise the bar for the next one.",
+          "Category": "Practices",
+          "Creator": "Fencer",
+          "Customer Since": "2023-11-01",
+          "Date": "2026-04-28T12:22:00.000Z",
+          "Description": "In a market that hadn’t changed in decades, Linear didn’t win by being faster. They won by being more thoughtful.  Karri Saarinen helped shape design at Airbnb and Coinbase before building Line...",
+          "Founding": "San Francisco, 2015",
+          "Icon Background Color": "#F34F52",
+          "Install Url": "https://fencer.dev/integrations",
+          "Intro": "OpenAI is at the forefront of artificial intelligence research, developing systems that can understand and generate human-like text, code, and images. Founded in 2015, they’ve grown from a small...",
+          "Investors": "Coatue, Andreessen Horowitz",
+          "Metadata Description": "The workflows that proved most useful across CX, Product, and Engineering, and what they tell us about working with agents.",
+          "Metadata Title": "How we use Linear Agent at Linear",
+          "Name": "Fencer",
+          "Now": "Ramp’s internal coding agent now writes 60%+ of their merged PRs. With Linear as the underlying layer for structured product context, it can take on issues and work them to completion.",
+          "Priority": "0",
+          "Representative": "Katherine Velasco",
+          "Representative Title": "Technical Product Lead",
+          "Source": "Grit Podcast",
+          "Status": "visible",
+          "Tagline": "Why OpenAI chose Linear and scaled to 3,000 users",
+          "Title": "How we hire at Linear"
+        },
+        "pageType": "generic",
+        "sections": [
+          {
+            "content": "Render UI before `vehicle_state` sync when minimum required state is present, instead of blocking on full refresh during iOS startup.",
+            "heading": "Faster app launch"
+          },
+          {
+            "content": "Linear created the issue via Slack on behalf of karri· 2min ago\nTriage Intelligence added the labelPerformance and iOS· 2min ago\nkarri· 4 min ago\nRight now we show a spinner forever, which makes it look like the car disappeared...\njori· just now\n@GitHub Copilot can you take a stab at this?\njori connectedGitHub Copilot· just now\nGitHub Copilot\nExamining issueENG-2703\nGitHub Copilot moved from Todo toIn Progress· just now\nI received your request and will let you know when the PR is ready.Startgithub-mcp-serverMCP serverStartplaywright MCP serverI'll start by exploring the repository structure to understand the codebase and then implement the necessary changes to render UI before vehicle_state syncBash: Check current directory and list repository contentsView /home/runner/kinetic/kinetic-ios\nThinking...\nENG-2703\nIn Progress\nHigh\njori\nLabels\nPerformance\niOS\nCycle\nCycle 144\nProject\nCore Performance",
+            "heading": "Activity"
+          },
+          {
+            "content": "Purpose-built for modern teams with AI workflows at its core, Linear sets a new standard for planning and building products.\nBuilt for purpose\nLinear is shaped by the practices and principles of world-class product teams.\nPowered by AI agents\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\nDesigned for speed\nReduces noise and restores momentum to help teams ship with high velocity and focus.\nFIG 0.2\nBuilt for purpose\nLinear is shaped by the practices and principles of world-class product teams.\nFIG 0.3\nPowered by AI agentsDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\nDesigned for workflows shared by humans and agents. From drafting PRDs to pushing PRs.\nFIG 0.4\nDesigned for speed\nReduces noise and restores momentum to help teams ship with high velocity and focus.",
+            "heading": "A new species of product tool."
+          },
+          {
+            "content": "Turn conversations and customer feedback into actionable issues that are routed, labeled, and prioritized for the right team.\nBacklog8\nENG-2085\nReduce UI flicker during autonomy...\nENG-2094\nAdd buffering for autonomy event streams\nENG-2092\nReduce startup delay caused by vehicle sync\nENG-2200\nFix delayed route updates during rerouting\nTodo71\nENG-926\nRemove UI inconsistencies\nBugDesign\nENG-2088\nTypeError: Cannot read properties\nBug\nENG-924\nUpgrade to Claude Opus 4.5\nAI\nENG-1882\nOptimize load times\nPerformance\nIn Progress3\nENG-1487\nRemove contentData from GraphQL API\n61039\nMKT-1028\nLaunch page assets\nDesign\nENG-2187\nPrevent duplicate ride requests on poor...\nBug62048\nDone53\nENG-2074\nClean up deprecated APIs...\nAPI61002\nENG-1912\nReduce latency in autonomy st...\n61005\nENG-1951\nReduce ETA fluctuations durin...\n61202\nENG-1960\nImprove fallback messaging\nUI61149\nENG-1991\nImprove rider visibility into veh...\ndidier5:50 AM\nHas anyone been looking into the iOS startup performance issues?\nlena5:50 AM\nAnyone else noticing the iOS app feels slow to open if you haven't used it in a bit?\ndidier5:50 AM\nYea, we're still blocking initial render on a full vehicle_state sync every time...\nandreas5:50 AM\nFeels like we could render sooner and load the rest in the background. Probably also worth tracking startup timing so we know how often this happens!\n@Linearcreate issuesurgent issues and assign to me\n1.1Linear Agent+\n1.2Triage+\n1.3Customer Requests+\n1.4Linear Asks+",
+            "heading": "Make product  operations self-driving"
+          },
+          {
+            "content": "Plan and navigate from idea to launch. Align your team with product initiatives, strategic roadmaps, and clear, up-to-date PRDs.\nFEB\nMAR\nAPR\nMAY\nJUN\nJUL\nAUG\nSEP\n2\n9\n16\n23\n2\n9\n16\n23\n30\n6\n13\n20\n27\n4\n11\n18\n25\n1\n8\n15\n22\n29\n6\n13\n20\n27\n3\n10\n17\n24\n31\n7\n14\n21\n28\nUI Refresh\nCore screens\nPolish\nSplit fares\nInternal\nPublic Beta\nAutonomy status clarity\nAlpha\nGA\nCore Product99\nInfra stability28\nAutonomous systems16\nMobile apps8\nAPAC Expansion21\nJapan Launch12\nCustomer-driven priorities9\n2.1Projects+\n2.2Documents+\n2.3Initiatives+\n2.4Visual planning+",
+            "heading": "Define the  product direction"
+          },
+          {
+            "content": "Build and deploy AI agents that work alongside your team. Work on complex tasks together or delegate entire issues end-to-end.\nOn it! I've received your request.\nKicked off a task inkinetic/kinetic-iOS environment.\nSearching for root AGENTS file\nkinetic/kinetic-iOS$ /bin/bash -lc rg --files -g 'AGENTS.md'\nAGENTS.md\nLocating initialization logic forvehicle_state\nThinking.\nAgents Command Menu\nCodexAgent\nSteven\nEma\nCursorAgent\nMeg\n3.1Issues+\n3.2Agents+\n3.3Linear MCP+\n3.4Git automations+\n3.5Cycles+",
+            "heading": "Move work forward  across teams and agents"
+          },
+          {
+            "content": "Understand code changes at a glance with structural diffs for human and agent output. Review, discuss, and merge — all within Linear.\nkinetic-ios/src/screens/Home/HomeScreen.tsxkinetic-ios/src/HomeScreen.tsx\nLinear\n```\nimport React from 'react'import { View, ActivityIndicator } from 'react-native'import { useVehicleState } from '@hooks/useVehicleState'import { Dashboard } from '@components/Dashboard'export const HomeScreen = () => {  const { vehicleState, isFullySynced } = useVehicleState()  if (!isFullySynced) {    return <ActivityIndicator size=\"large\" />  }  return (    <View>      <Dashboard state={vehicleState} />    </View>  )}\n```\n```\nimport React from 'react'import { View, ActivityIndicator } from 'react-native'import { useVehicleState, SyncStatus } from '@hooks/useVehicleState'import { Dashboard } from '@components/Dashboard'export const HomeScreen = () => {  const { vehicleState, syncStatus } = useVehicleState()  if (syncStatus === SyncStatus.PENDING) {    return <ActivityIndicator size=\"large\" />  }  return (    <View>      <Dashboard state={vehicleState} syncStatus={syncStatus} />    </View>  )}\n```\n```\nexport const CodeReview = () => {  <Diff.Provider>    <Slow />    <Fragmented />    <HumanOnly />    <Frictionless />    <Integrated />    <AgentReady />  </Diff.Provider>};\n```",
+            "heading": "Review PRs and agent output"
+          },
+          {
+            "content": "Take the guesswork out of product development with project updates, analytics, and dashboards that surface what needs your attention.\n18\n16\n14\n12\n10\n8\n6\n4\n2\n0\nFeb 2025May 2025Aug 2025Nov 2025\nCursor\nCodex\nNo Agent\nProjects\nUI refresh\nAt risk\nBy romain · 1 day ago\n- iOS implementation is mostly complete, but Android updates are still work in progress\n- Risk of timeline slip if remaining design decisions aren’t finalized soon\nTokyo launch\nOn track\nBy julian · 3 hours ago\n- Localization efforts have been completed\n- Everything else on track for launch in early September\n5.1Pulse+\n5.2Insights+\n5.3Dashboards+",
+            "heading": "Understand  progress at scale"
+          },
+          {
+            "content": "Releases\n\nPlan and track your software releases directly from Linear.\n\nApr 30, 2026\nLinear Agent MCP support\n\nLinear Agent can now connect to your tools via MCP, giving it access to data and actions beyond your Linear workspace. Bring external context into your workflows to investigate issues, plan projects, write specs, and draft updates grounded in your full context.\n\nApr 23, 2026\nLinear for Microsoft Teams\n\nMention @Linear in any Microsoft Teams channel to turn your conversations into actionable work.\n\nApr 15, 2026\nMulti-level sub-teams\n\nStructure your teams in Linear to match how your organization works.\n\nApr 8, 2026\n> You just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI > Our speed is intense and Linear helps us be action biased.\n\nNik KoblovRamp > Linear is excellent, just excellent. It has the right opinions for fast moving teams.\n\nKaz NejatianOpendoor\nYou just have to use it and you will see, you will just feel it.\n\nGabriel PealOpenAI Our speed is intense and Linear helps us be action biased.\n\nNik KoblovHead of Engineering, Ramp\nLinear powers over 25,000 product teams. From ambitious startups to major enterprises.",
+            "heading": "Changelog"
+          },
+          {
+            "content": "",
+            "heading": "Built for the future. Available today."
+          },
+          {
+            "content": "- Pricing\n- Security",
+            "heading": "Product"
+          },
+          {
+            "content": "- Asks\n- Agents\n- Customer Requests\n- Insights\n- Mobile\n- Integrations",
+            "heading": "Features"
+          },
+          {
+            "content": "- About\n- Careers\n- Blog\n- Method\n- Quality\n- Brand",
+            "heading": "Company"
+          },
+          {
+            "content": "- Switch\n- Download\n- DocumentationDocs\n- Developers\n- Status\n- Enterprise\n- Startups",
+            "heading": "Resources"
+          },
+          {
+            "content": "- Contact us\n- Community\n- X (Twitter)\n- GitHub\n- YouTube",
+            "heading": "Connect"
+          },
+          {
+            "content": "- Privacy\n- Terms\n- DPA",
+            "heading": "Legal"
+          },
+          {
+            "content": "Hiring well matters more than hiring fast. We’re happy to take our time, and believe each person who joins the team should raise the bar for the next one.\nIn a market that hadn’t changed in decades, Linear didn’t win by being faster. They won by being more thoughtful.  Karri Saarinen helped shape design at Airbnb and Coinbase before building Line...\nOpenAI is at the forefront of artificial intelligence research, developing systems that can understand and generate human-like text, code, and images. Founded in 2015, they’ve grown from a small...\nRamp’s internal coding agent now writes 60%+ of their merged PRs. With Linear as the underlying layer for structured product context, it can take on issues and work them to completion.",
+            "heading": "Product Details"
+          }
+        ],
+        "title": "The productdevelopmentsystem for teamsand agentsThe product development  system for teams   and agentsThe product development system for teams and agents"
+      },
+      "status": "success"
+    }
+  }
+}
