@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 import {
   useParams,
@@ -15,6 +15,9 @@ export default function UploadPage() {
   const [loading, setLoading] =
     useState(false);
 
+  const [loadingExisting, setLoadingExisting] =
+    useState(true);
+
   const [jsonText, setJsonText] =
     useState(`{
   "name": "SpyGlass AI",
@@ -24,6 +27,28 @@ export default function UploadPage() {
     "SEO tracking"
   ]
 }`);
+
+  useEffect(() => {
+    async function loadExistingProfile() {
+      try {
+        const res = await fetch(
+          `/api/companies/${params.id}/user-company`
+        );
+
+        const data = await res.json();
+
+        if (res.ok && data.userCompany && Object.keys(data.userCompany).length) {
+          setJsonText(JSON.stringify(data.userCompany.rawData || data.userCompany, null, 2));
+        }
+      } catch {
+        // keep default template if no saved profile is available
+      } finally {
+        setLoadingExisting(false);
+      }
+    }
+
+    loadExistingProfile();
+  }, [params.id]);
 
   async function handleSave() {
     try {
@@ -73,13 +98,19 @@ export default function UploadPage() {
     <div className="max-w-5xl mx-auto p-6 space-y-6">
       <div>
         <h1 className="text-3xl font-bold">
-          Upload Startup Data
+          Save My Company Data
         </h1>
 
         <p className="text-zinc-400 mt-2">
-          Paste your startup JSON.
+          Save once and reuse across all competitor comparisons. You can still use temporary comparison data later without overwriting this profile.
         </p>
       </div>
+
+      {loadingExisting && (
+        <p className="text-zinc-500 text-sm">
+          Loading your saved profile...
+        </p>
+      )}
 
       <textarea
         value={jsonText}
@@ -88,7 +119,7 @@ export default function UploadPage() {
             e.target.value
           )
         }
-        className="w-full min-h-[500px] rounded-2xl bg-zinc-900 border border-zinc-800 p-4 font-mono text-sm"
+        className="w-full min-h-125 rounded-2xl bg-zinc-900 border border-zinc-800 p-4 font-mono text-sm"
       />
 
       <button
@@ -98,7 +129,7 @@ export default function UploadPage() {
       >
         {loading
           ? "Saving..."
-          : "Save Startup Data"}
+          : "Save My Data Permanently"}
       </button>
     </div>
   );

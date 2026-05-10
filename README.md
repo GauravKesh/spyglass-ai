@@ -92,6 +92,8 @@ JWT_SECRET=
 GEMINI_API_KEY=
 
 ANAKIN_API_KEY=
+
+PRODUCT_HUNT_ACCESS_TOKEN=
 ```
 
 ### ▶️ Run Development Server
