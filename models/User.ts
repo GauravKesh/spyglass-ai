@@ -17,6 +17,11 @@ const UserSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
+
+    companyProfile: {
+      type: mongoose.Schema.Types.Mixed,
+      default: {},
+    },
   },
   {
     timestamps: true,

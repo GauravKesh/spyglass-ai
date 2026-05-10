@@ -13,6 +13,12 @@ export function middleware(
   const isProtectedRoute =
     request.nextUrl.pathname.startsWith(
       "/dashboard"
+    ) ||
+    request.nextUrl.pathname.startsWith(
+      "/analyze"
+    ) ||
+    request.nextUrl.pathname.startsWith(
+      "/companies"
     );
 
   if (token && isAuthPage) {
@@ -35,6 +41,8 @@ export function middleware(
 export const config = {
   matcher: [
     "/dashboard/:path*",
+    "/analyze/:path*",
+    "/companies/:path*",
     "/login",
     "/register",
   ],

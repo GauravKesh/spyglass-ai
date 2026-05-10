@@ -1,0 +1,20 @@
+{
+  "type": "anakin_api",
+  "request": {
+    "method": "POST",
+    "url": "https://api.anakin.io/v1/url-scraper",
+    "body": {
+      "url": "https://www.gkrcoder.me/",
+      "generateJson": true,
+      "useBrowser": true
+    }
+  },
+  "response": {
+    "status": 202,
+    "ok": true,
+    "data": {
+      "jobId": "e11cf787-085f-4677-986c-86dccf01a676",
+      "status": "pending"
+    }
+  }
+}

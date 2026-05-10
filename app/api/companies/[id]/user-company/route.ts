@@ -1,11 +1,21 @@
 import { NextResponse } from "next/server";
 
 import Company from "@/models/Company";
+import User from "@/models/User";
 
 import { connectDB } from "@/lib/mongodb";
 import { getCurrentUser } from "@/lib/auth";
 
-export async function GET(req: Request) {
+export async function GET(
+  _req: Request,
+  {
+    params,
+  }: {
+    params: Promise<{
+      id: string;
+    }>;
+  }
+) {
   try {
     await connectDB();
 
@@ -22,22 +32,10 @@ export async function GET(req: Request) {
       );
     }
 
-    const { searchParams } = new URL(req.url);
-    const companyId = searchParams.get("companyId");
-
-    if (!companyId) {
-      return NextResponse.json(
-        {
-          message: "companyId is required",
-        },
-        {
-          status: 400,
-        }
-      );
-    }
+    const { id } = await params;
 
     const company = await Company.findOne({
-      _id: companyId,
+      _id: id,
       userId: decoded.userId,
     });
 
@@ -52,9 +50,25 @@ export async function GET(req: Request) {
       );
     }
 
+    const user = await User.findById(decoded.userId);
+
+    if (!user) {
+      return NextResponse.json(
+        {
+          message: "User not found",
+        },
+        {
+          status: 404,
+        }
+      );
+    }
+
     return NextResponse.json({
       success: true,
-      userCompany: company.userCompany || {},
+      userCompany:
+        user.companyProfile ||
+        company.userCompany ||
+        {},
     });
   } catch (error) {
     console.log(error);
@@ -70,7 +84,16 @@ export async function GET(req: Request) {
   }
 }
 
-export async function POST(req: Request) {
+export async function POST(
+  req: Request,
+  {
+    params,
+  }: {
+    params: Promise<{
+      id: string;
+    }>;
+  }
+) {
   try {
     await connectDB();
 
@@ -88,21 +111,11 @@ export async function POST(req: Request) {
     }
 
     const body = await req.json();
-    const { companyId, ...payload } = body || {};
 
-    if (!companyId) {
-      return NextResponse.json(
-        {
-          message: "companyId is required",
-        },
-        {
-          status: 400,
-        }
-      );
-    }
+    const { id } = await params;
 
     const company = await Company.findOne({
-      _id: companyId,
+      _id: id,
       userId: decoded.userId,
     });
 
@@ -117,9 +130,30 @@ export async function POST(req: Request) {
       );
     }
 
+    const user = await User.findById(decoded.userId);
+
+    if (!user) {
+      return NextResponse.json(
+        {
+          message: "User not found",
+        },
+        {
+          status: 404,
+        }
+      );
+    }
+
+    user.companyProfile = {
+      ...body,
+      rawData: body,
+      updatedAt: new Date().toISOString(),
+    };
+
+    await user.save();
+
     company.userCompany = {
-      ...payload,
-      rawData: payload,
+      ...body,
+      rawData: body,
     };
 
     await company.save();

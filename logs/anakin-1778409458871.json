@@ -1,0 +1,365 @@
+{
+  "type": "db_payload",
+  "payload": {
+    "userId": "6a00393515a7b70f51c0a377",
+    "name": "GauravKeshRoushan",
+    "url": "https://www.gkrcoder.me/",
+    "status": "success",
+    "title": "GauravKeshRoushan",
+    "description": "Full-stack developer building modern digital products with a strong focus on clarity, performance, and useful motion.",
+    "pageType": "generic",
+    "links": [
+      {
+        "text": "View More",
+        "url": "https://www.gkrcoder.me/about"
+      },
+      {
+        "text": "Get In Touch",
+        "url": "https://www.gkrcoder.me/contact"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/gauravkesh"
+      },
+      {
+        "text": "LinkedIn",
+        "url": "https://linkedin.com/in/gkrcoder"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/gkrcoder_"
+      },
+      {
+        "text": "Scroll",
+        "url": "https://www.gkrcoder.me/#projects"
+      },
+      {
+        "text": "View Details",
+        "url": "https://www.gkrcoder.me/projects/redis-rate-limiter-go"
+      },
+      {
+        "text": "Code",
+        "url": "https://github.com/GauravKesh/rate-limiter"
+      },
+      {
+        "text": "View Details",
+        "url": "https://www.gkrcoder.me/projects/multithreaded-tcp-server"
+      },
+      {
+        "text": "Code",
+        "url": "https://github.com/GauravKesh/cpp-multithreaded-tcp-server"
+      },
+      {
+        "text": "View Details",
+        "url": "https://www.gkrcoder.me/projects/api-gateway"
+      },
+      {
+        "text": "Code",
+        "url": "https://github.com/gauravkesh/api_gateway"
+      },
+      {
+        "text": "View All Projects",
+        "url": "https://www.gkrcoder.me/projects"
+      },
+      {
+        "text": "PR",
+        "url": "https://github.com/expressjs/expressjs.com/pull/2042"
+      },
+      {
+        "text": "Repo",
+        "url": "https://github.com/iamkanhaiyakumar/ai-content-generator"
+      },
+      {
+        "text": "Repo",
+        "url": "https://github.com/iamkanhaiyakumar/ai-content-generator"
+      },
+      {
+        "text": "Home",
+        "url": "https://www.gkrcoder.me/"
+      },
+      {
+        "text": "About",
+        "url": "https://www.gkrcoder.me/about"
+      },
+      {
+        "text": "Experience",
+        "url": "https://www.gkrcoder.me/experience"
+      },
+      {
+        "text": "Skills",
+        "url": "https://www.gkrcoder.me/skills"
+      },
+      {
+        "text": "Projects",
+        "url": "https://www.gkrcoder.me/projects"
+      },
+      {
+        "text": "Contact",
+        "url": "https://www.gkrcoder.me/contact"
+      },
+      {
+        "text": "Resume",
+        "url": "https://www.gkrcoder.me/resume"
+      },
+      {
+        "text": "Blog",
+        "url": "https://www.gkrcoder.me/blog"
+      },
+      {
+        "text": "Emailgkrcoder@gmail.com",
+        "url": "mailto:gkrcoder@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "content": "I'm a Full-stack software developer passionate about building scalable solutions in health tech, AI, and SaaS. I focus on creating robust, production-ready systems that deliver real-world impact.",
+        "heading": "Full-Stack Developer_"
+      },
+      {
+        "content": "TypeScript\nReact\nNext.js\nNode.js\nPostgreSQL",
+        "heading": "Stack"
+      },
+      {
+        "content": "🚀\nProjects\n10+ Built\nAvailable",
+        "heading": "Builder"
+      },
+      {
+        "content": "Open a project for a quick preview, or jump straight to the live demo and source links.\n3\nProjects\nYes\nQuick view\n2\nLinks",
+        "heading": "Featured projects presented like a gallery."
+      },
+      {
+        "content": "A scalable rate limiting service using Redis to control request throughput in distributed systems.\nGo\nRedis\nBackend\nKey features\n- Request rate limiting using Redis\n- Middleware-based integration\n- Configurable limits and refill rates",
+        "heading": "Rate Limiter (Go + Redis)"
+      },
+      {
+        "content": "Concurrent TCP server with thread pool and efficient socket handling.\nC++\nSockets\nConcurrency\nKey features\n- Thread pool architecture\n- Efficient I/O handling\n- Low latency communication",
+        "heading": "Multithreaded TCP Server"
+      },
+      {
+        "content": "A centralized API gateway for handling routing, authentication, and request management in microservices.\nNode.js\nExpress\nMicroservices\nKey features\n- Centralized request routing\n- Authentication and middleware support\n- Basic rate limiting",
+        "heading": "API Gateway"
+      },
+      {
+        "content": "Community contributions & mentorship\nSelected open-source contributions, PRs and mentoring roles that improved projects and docs.\n3\nOrganizations\n2\nMentor roles\n1\nPRs",
+        "heading": "Open Source"
+      },
+      {
+        "content": "Contributor • Aug 2025\nImproved Express.js documentation for better developer experience.\nTop contributions\n- Updated req.is() docs to support array and multiple arguments\n- Enhanced clarity for API usage\nJavaScript\nNode.js\nDocumentation",
+        "heading": "Express.js"
+      },
+      {
+        "content": "Mentor • 2024\nMaintained repository and mentored contributors in open source.\nTop contributions\n- Maintained AI Content Generator repository\n- Reviewed and merged 10+ feature PRs\n- Guided contributors on implementation and best practices\nOpen Source\nMentorship\nCode Review\nGitHub\nNo PR",
+        "heading": "GirlScript Summer of Code (GSSOC)"
+      },
+      {
+        "content": "Mentor • 2024\nLed contributor support and PR management for open source project.\nTop contributions\n- Mentored developers and reviewed PRs\n- Managed and merged feature contributions\n- Provided technical guidance across features\nOpen Source\nMentorship\nGitHub\nNo PR",
+        "heading": "Social Winter of Code (SWOC)"
+      },
+      {
+        "content": "I design and build interfaces that feel intentional.\nFull-stack developer specializing in clean systems, product-focused experiences, and polished front-end details.",
+        "heading": "Let's build something sharp"
+      },
+      {
+        "content": "",
+        "heading": "Quick Links"
+      },
+      {
+        "content": "Emailgkrcoder@gmail.com",
+        "heading": "Contact"
+      },
+      {
+        "content": "",
+        "heading": "Social"
+      }
+    ],
+    "metadata": {
+      "imageUrls": [
+        "https://www.gkrcoder.me/images/mine/gkrcoder.webp",
+        "https://www.gkrcoder.me/images/webp/rate-limiter.webp",
+        "https://www.gkrcoder.me/images/webp/tcp.webp",
+        "https://www.gkrcoder.me/images/webp/api_gateway_image.webp"
+      ]
+    },
+    "rawMarkdown": "# GauravKeshRoushan\n\n## Full-Stack Developer\\_\n\nI'm a Full-stack software developer passionate about building scalable solutions in health tech, AI, and SaaS. I focus on creating robust, production-ready systems that deliver real-world impact.\n\n[View More](https://www.gkrcoder.me/about)\n\n[Get In Touch](https://www.gkrcoder.me/contact)\n\n[GitHub](https://github.com/gauravkesh)[LinkedIn](https://linkedin.com/in/gkrcoder)[Twitter](https://twitter.com/gkrcoder_)\n\nStack\n\nTypeScript\n\nReact\n\nNext.js\n\nNode.js\n\nPostgreSQL\n\n![Gaurav Kesh Roushan](https://www.gkrcoder.me/images/mine/gkrcoder.webp)\n\nBuilder\n\n🚀\n\nProjects\n\n10+ Built\n\nAvailable\n\n[Scroll](https://www.gkrcoder.me/#projects)\n\nMy work\n\n## Featured projects presented like a gallery.\n\nOpen a project for a quick preview, or jump straight to the live demo and source links.\n\n3\n\nProjects\n\nYes\n\nQuick view\n\n2\n\nLinks\n\n![Rate Limiter (Go + Redis)](https://www.gkrcoder.me/images/webp/rate-limiter.webp)\n\ninfra\n\ndocs\n\n[View Details](https://www.gkrcoder.me/projects/redis-rate-limiter-go) Quick View\n\n### Rate Limiter (Go + Redis)\n\nA scalable rate limiting service using Redis to control request throughput in distributed systems.\n\nGo\n\nRedis\n\nBackend\n\nKey features\n\n- Request rate limiting using Redis\n- Middleware-based integration\n- Configurable limits and refill rates\n\n[Code](https://github.com/GauravKesh/rate-limiter)\n\n![Multithreaded TCP Server](https://www.gkrcoder.me/images/webp/tcp.webp)\n\nsystems\n\ndocs\n\n[View Details](https://www.gkrcoder.me/projects/multithreaded-tcp-server) Quick View\n\n### Multithreaded TCP Server\n\nConcurrent TCP server with thread pool and efficient socket handling.\n\nC++\n\nSockets\n\nConcurrency\n\nKey features\n\n- Thread pool architecture\n- Efficient I/O handling\n- Low latency communication\n\n[Code](https://github.com/GauravKesh/cpp-multithreaded-tcp-server)\n\n![API Gateway](https://www.gkrcoder.me/images/webp/api_gateway_image.webp)\n\ninfra\n\ndocs\n\n[View Details](https://www.gkrcoder.me/projects/api-gateway) Quick View\n\n### API Gateway\n\nA centralized API gateway for handling routing, authentication, and request management in microservices.\n\nNode.js\n\nExpress\n\nMicroservices\n\nKey features\n\n- Centralized request routing\n- Authentication and middleware support\n- Basic rate limiting\n\n[Code](https://github.com/gauravkesh/api_gateway)\n\n[View All Projects](https://www.gkrcoder.me/projects)\n\nOpen Source\n\n## Community contributions & mentorship\n\nSelected open-source contributions, PRs and mentoring roles that improved projects and docs.\n\n3\n\nOrganizations\n\n2\n\nMentor roles\n\n1\n\nPRs\n\nExpress.js\n\nContributor • Aug 2025\n\nImproved Express.js documentation for better developer experience.\n\nTop contributions\n\n- Updated req.is() docs to support array and multiple arguments\n- Enhanced clarity for API usage\n\nJavaScript\n\nNode.js\n\nDocumentation\n\n[PR](https://github.com/expressjs/expressjs.com/pull/2042)\n\nGirlScript Summer of Code (GSSOC)\n\nMentor • 2024\n\nMaintained repository and mentored contributors in open source.\n\nTop contributions\n\n- Maintained AI Content Generator repository\n- Reviewed and merged 10+ feature PRs\n- Guided contributors on implementation and best practices\n\nOpen Source\n\nMentorship\n\nCode Review\n\nGitHub\n\nNo PR [Repo](https://github.com/iamkanhaiyakumar/ai-content-generator)\n\nSocial Winter of Code (SWOC)\n\nMentor • 2024\n\nLed contributor support and PR management for open source project.\n\nTop contributions\n\n- Mentored developers and reviewed PRs\n- Managed and merged feature contributions\n- Provided technical guidance across features\n\nOpen Source\n\nMentorship\n\nGitHub\n\nNo PR [Repo](https://github.com/iamkanhaiyakumar/ai-content-generator)\n\nLet's build something sharp\n\n## I design and build interfaces that feel intentional.\n\nFull-stack developer specializing in clean systems, product-focused experiences, and polished front-end details.\n\n## GKR\n\nFull-stack developer building modern digital products with a strong focus on clarity, performance, and useful motion.\n\n### Quick Links\n\n[Home](https://www.gkrcoder.me/) [About](https://www.gkrcoder.me/about) [Experience](https://www.gkrcoder.me/experience) [Skills](https://www.gkrcoder.me/skills) [Projects](https://www.gkrcoder.me/projects) [Contact](https://www.gkrcoder.me/contact) [Resume](https://www.gkrcoder.me/resume) [Blog](https://www.gkrcoder.me/blog)\n\n### Contact\n\n[Emailgkrcoder@gmail.com](mailto:gkrcoder@gmail.com)\n\nSocial",
+    "aiRawData": {
+      "data": {
+        "description": "Full-stack developer building modern digital products with a strong focus on clarity, performance, and useful motion.",
+        "links": [
+          {
+            "text": "View More",
+            "url": "https://www.gkrcoder.me/about"
+          },
+          {
+            "text": "Get In Touch",
+            "url": "https://www.gkrcoder.me/contact"
+          },
+          {
+            "text": "GitHub",
+            "url": "https://github.com/gauravkesh"
+          },
+          {
+            "text": "LinkedIn",
+            "url": "https://linkedin.com/in/gkrcoder"
+          },
+          {
+            "text": "Twitter",
+            "url": "https://twitter.com/gkrcoder_"
+          },
+          {
+            "text": "Scroll",
+            "url": "https://www.gkrcoder.me/#projects"
+          },
+          {
+            "text": "View Details",
+            "url": "https://www.gkrcoder.me/projects/redis-rate-limiter-go"
+          },
+          {
+            "text": "Code",
+            "url": "https://github.com/GauravKesh/rate-limiter"
+          },
+          {
+            "text": "View Details",
+            "url": "https://www.gkrcoder.me/projects/multithreaded-tcp-server"
+          },
+          {
+            "text": "Code",
+            "url": "https://github.com/GauravKesh/cpp-multithreaded-tcp-server"
+          },
+          {
+            "text": "View Details",
+            "url": "https://www.gkrcoder.me/projects/api-gateway"
+          },
+          {
+            "text": "Code",
+            "url": "https://github.com/gauravkesh/api_gateway"
+          },
+          {
+            "text": "View All Projects",
+            "url": "https://www.gkrcoder.me/projects"
+          },
+          {
+            "text": "PR",
+            "url": "https://github.com/expressjs/expressjs.com/pull/2042"
+          },
+          {
+            "text": "Repo",
+            "url": "https://github.com/iamkanhaiyakumar/ai-content-generator"
+          },
+          {
+            "text": "Repo",
+            "url": "https://github.com/iamkanhaiyakumar/ai-content-generator"
+          },
+          {
+            "text": "Home",
+            "url": "https://www.gkrcoder.me/"
+          },
+          {
+            "text": "About",
+            "url": "https://www.gkrcoder.me/about"
+          },
+          {
+            "text": "Experience",
+            "url": "https://www.gkrcoder.me/experience"
+          },
+          {
+            "text": "Skills",
+            "url": "https://www.gkrcoder.me/skills"
+          },
+          {
+            "text": "Projects",
+            "url": "https://www.gkrcoder.me/projects"
+          },
+          {
+            "text": "Contact",
+            "url": "https://www.gkrcoder.me/contact"
+          },
+          {
+            "text": "Resume",
+            "url": "https://www.gkrcoder.me/resume"
+          },
+          {
+            "text": "Blog",
+            "url": "https://www.gkrcoder.me/blog"
+          },
+          {
+            "text": "Emailgkrcoder@gmail.com",
+            "url": "mailto:gkrcoder@gmail.com"
+          }
+        ],
+        "metadata": {
+          "imageUrls": [
+            "https://www.gkrcoder.me/images/mine/gkrcoder.webp",
+            "https://www.gkrcoder.me/images/webp/rate-limiter.webp",
+            "https://www.gkrcoder.me/images/webp/tcp.webp",
+            "https://www.gkrcoder.me/images/webp/api_gateway_image.webp"
+          ]
+        },
+        "pageType": "generic",
+        "sections": [
+          {
+            "content": "I'm a Full-stack software developer passionate about building scalable solutions in health tech, AI, and SaaS. I focus on creating robust, production-ready systems that deliver real-world impact.",
+            "heading": "Full-Stack Developer_"
+          },
+          {
+            "content": "TypeScript\nReact\nNext.js\nNode.js\nPostgreSQL",
+            "heading": "Stack"
+          },
+          {
+            "content": "🚀\nProjects\n10+ Built\nAvailable",
+            "heading": "Builder"
+          },
+          {
+            "content": "Open a project for a quick preview, or jump straight to the live demo and source links.\n3\nProjects\nYes\nQuick view\n2\nLinks",
+            "heading": "Featured projects presented like a gallery."
+          },
+          {
+            "content": "A scalable rate limiting service using Redis to control request throughput in distributed systems.\nGo\nRedis\nBackend\nKey features\n- Request rate limiting using Redis\n- Middleware-based integration\n- Configurable limits and refill rates",
+            "heading": "Rate Limiter (Go + Redis)"
+          },
+          {
+            "content": "Concurrent TCP server with thread pool and efficient socket handling.\nC++\nSockets\nConcurrency\nKey features\n- Thread pool architecture\n- Efficient I/O handling\n- Low latency communication",
+            "heading": "Multithreaded TCP Server"
+          },
+          {
+            "content": "A centralized API gateway for handling routing, authentication, and request management in microservices.\nNode.js\nExpress\nMicroservices\nKey features\n- Centralized request routing\n- Authentication and middleware support\n- Basic rate limiting",
+            "heading": "API Gateway"
+          },
+          {
+            "content": "Community contributions & mentorship\nSelected open-source contributions, PRs and mentoring roles that improved projects and docs.\n3\nOrganizations\n2\nMentor roles\n1\nPRs",
+            "heading": "Open Source"
+          },
+          {
+            "content": "Contributor • Aug 2025\nImproved Express.js documentation for better developer experience.\nTop contributions\n- Updated req.is() docs to support array and multiple arguments\n- Enhanced clarity for API usage\nJavaScript\nNode.js\nDocumentation",
+            "heading": "Express.js"
+          },
+          {
+            "content": "Mentor • 2024\nMaintained repository and mentored contributors in open source.\nTop contributions\n- Maintained AI Content Generator repository\n- Reviewed and merged 10+ feature PRs\n- Guided contributors on implementation and best practices\nOpen Source\nMentorship\nCode Review\nGitHub\nNo PR",
+            "heading": "GirlScript Summer of Code (GSSOC)"
+          },
+          {
+            "content": "Mentor • 2024\nLed contributor support and PR management for open source project.\nTop contributions\n- Mentored developers and reviewed PRs\n- Managed and merged feature contributions\n- Provided technical guidance across features\nOpen Source\nMentorship\nGitHub\nNo PR",
+            "heading": "Social Winter of Code (SWOC)"
+          },
+          {
+            "content": "I design and build interfaces that feel intentional.\nFull-stack developer specializing in clean systems, product-focused experiences, and polished front-end details.",
+            "heading": "Let's build something sharp"
+          },
+          {
+            "content": "",
+            "heading": "Quick Links"
+          },
+          {
+            "content": "Emailgkrcoder@gmail.com",
+            "heading": "Contact"
+          },
+          {
+            "content": "",
+            "heading": "Social"
+          }
+        ],
+        "title": "GauravKeshRoushan"
+      },
+      "status": "success"
+    }
+  }
+}

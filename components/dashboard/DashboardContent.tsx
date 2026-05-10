@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useState } from "react";
 
 import ChatPanel from "@/components/chat/ChatPanel";
@@ -42,14 +44,14 @@ export default function DashboardContent({
 
                 {/* ACTIONS */}
                 <div className="flex items-center gap-3">
-                  <div className="hidden md:flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-4 py-2 text-sm text-white/60">
+                  <div className="hidden md:flex items-center gap-2 rounded-full border border-white/10 bg-white/3 px-4 py-2 text-sm text-white/60">
                     <div className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
                     Live Intelligence
                   </div>
 
                   <button
                     onClick={() => setChatOpen(!chatOpen)}
-                    className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/[0.03] hover:bg-white/[0.06] px-5 py-3 transition-all"
+                    className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/3 hover:bg-white/6 px-5 py-3 transition-all"
                   >
                     <span className="text-sm text-white/70">
                       {chatOpen ? "Hide Analyst" : "Open Analyst"}
@@ -60,11 +62,41 @@ export default function DashboardContent({
                   </button>
                 </div>
               </div>
+
+              <div className="flex flex-wrap gap-3 mt-6">
+                <Link
+                  href={`/companies/${company._id}`}
+                  className="rounded-xl border border-white/20 px-4 py-2 text-sm hover:bg-white/10 transition"
+                >
+                  Company Profile
+                </Link>
+
+                <Link
+                  href={`/companies/${company._id}/upload`}
+                  className="rounded-xl border border-white/20 px-4 py-2 text-sm hover:bg-white/10 transition"
+                >
+                  Upload My Data
+                </Link>
+
+                <Link
+                  href={`/companies/${company._id}/compare`}
+                  className="rounded-xl border border-white/20 px-4 py-2 text-sm hover:bg-white/10 transition"
+                >
+                  Compare
+                </Link>
+
+                <Link
+                  href={`/companies/${company._id}/insights`}
+                  className="rounded-xl border border-white/20 px-4 py-2 text-sm hover:bg-white/10 transition"
+                >
+                  Insights
+                </Link>
+              </div>
             </div>
 
             {/* DESCRIPTION */}
             {company.description && (
-              <div className="mb-8 rounded-2xl border border-white/10 bg-white/[0.03] p-6">
+              <div className="mb-8 rounded-2xl border border-white/10 bg-white/3 p-6">
                 <h2 className="text-lg font-semibold mb-3 text-white/80">
                   About
                 </h2>
@@ -84,7 +116,7 @@ export default function DashboardContent({
                   ) => (
                     <div
                       key={i}
-                      className="rounded-2xl border border-white/10 bg-white/[0.03] p-6"
+                      className="rounded-2xl border border-white/10 bg-white/3 p-6"
                     >
                       {section.heading && (
                         <h2 className="text-lg font-semibold mb-3 text-white/80">
@@ -102,7 +134,7 @@ export default function DashboardContent({
 
             {/* LINKS */}
             {company.links?.length > 0 && (
-              <div className="mb-8 rounded-2xl border border-white/10 bg-white/[0.03] p-6">
+              <div className="mb-8 rounded-2xl border border-white/10 bg-white/3 p-6">
                 <h2 className="text-lg font-semibold mb-4 text-white/80">
                   Links
                 </h2>
@@ -117,7 +149,7 @@ export default function DashboardContent({
       href={link.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="px-4 py-2 rounded-xl border border-white/10 bg-white/[0.03] hover:bg-white/[0.08] text-sm text-white/70 hover:text-white transition-all"
+      className="px-4 py-2 rounded-xl border border-white/10 bg-white/3 hover:bg-white/8 text-sm text-white/70 hover:text-white transition-all"
     >
       {link.text}
     </a>
@@ -130,7 +162,7 @@ export default function DashboardContent({
             {/* PAGE TYPE + STATUS */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 pb-16">
               {company.pageType && (
-                <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-6">
+                <div className="rounded-2xl border border-white/10 bg-white/3 p-6">
                   <h2 className="text-lg font-semibold mb-2 text-white/80">
                     Page Type
                   </h2>
@@ -141,7 +173,7 @@ export default function DashboardContent({
               )}
 
               {company.status && (
-                <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-6">
+                <div className="rounded-2xl border border-white/10 bg-white/3 p-6">
                   <h2 className="text-lg font-semibold mb-2 text-white/80">
                     Scrape Status
                   </h2>
@@ -161,7 +193,7 @@ export default function DashboardContent({
       {/* CHAT SIDEBAR */}
       <div
         className={`border-l border-white/10 bg-[#0b0b0b] transition-all duration-300 shrink-0 ${
-          chatOpen ? "w-full sm:w-[420px]" : "w-0"
+          chatOpen ? "w-full sm:w-105" : "w-0"
         }`}
       >
         <div
